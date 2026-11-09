@@ -734,5 +734,4 @@ i2c@f9926000 {
 };
 
 &dsi_magna_octa_720p_video_vid {
-	qcom,cont-splash-enabled;
 };
